@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="ChatGPT Image Jun 21, 2026, 01_21_43 PM" src="https://github.com/user-attachments/assets/da6753a1-3197-4a64-ac13-cc39f49823ac" />
 <h1 align="center">Hi 👋, I'm Durgesh Thakur</h1>
 <h3 align="center">Civil Engineering Student | Drafting the Future</h3>
 
