@@ -26,6 +26,7 @@
   <img src="https://tallysolutions.com/wp-content/uploads/2020/10/tally-prime-logo.svg" alt="Tally Prime" height="25" style="margin-right: 20px;" />
   
   <img src="https://geomatex.com/uploads/products/sJQ0oP_Website%20Product%20Picture%20Template-ZWCAD.png" alt="ZWCAD" height="25" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI54bIpL_IeAn89zhRiXBWh0Bt9bkineNkJRSXlnbLng&s=10" height="25" alt="AutoCAD"/>
 </p>
 <!-- ============================================================ -->
 
